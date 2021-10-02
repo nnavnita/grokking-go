@@ -8,3 +8,4 @@ Made as an exercise to learn Go and brush up on my algorithms
 2. [Selection Sort](./selectionSort.go)
 3. [Recursive Factorial](./recursiveFactorial.go)
 4. [Quick Sort](./quickSort.go)
+5. [Hash Tables](./hashMap.go)
